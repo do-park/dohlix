@@ -24,7 +24,7 @@ const Item = styled.li`
   width: 80px;
   height: 50px;
   text-align: center;
-  border-bottom: 5px solid ${props => (props.current ? "#ffb8b8" : "transparent")};
+  border-top: 5px solid ${props => (props.current ? "#ffb8b8" : "transparent")};
   transition: border-bottom .5s ease-in-out;
 `;
 
