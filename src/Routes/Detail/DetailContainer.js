@@ -11,7 +11,7 @@ export default class extends React.Component {
       result: null,
       error: null,
       loading: true,
-      isMovie: pathname.include("/movie/")
+      isMovie: pathname.includes("/movie/")
     };
   }
 
@@ -20,7 +20,8 @@ export default class extends React.Component {
       match: {
         params: { id }
       },
-      history: { push } } = this.props;
+      history: { push }
+    } = this.props;
     const { isMovie } = this.state;
     const parsedId = parseInt(id);
     if (Number(parsedId)) {
@@ -44,6 +45,7 @@ export default class extends React.Component {
 
   render() {
     const { result, error, loading } = this.state;
+    console.log(result)
     return (
       <DetailPresenter
         result={result}
