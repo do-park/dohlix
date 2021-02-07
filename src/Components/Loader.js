@@ -10,6 +10,7 @@ const Container = styled.div`
   margin-top: 20px;
 `;
 
+// eslint-disable-next-line
 export default () => (
   <Container>
     <span role='img' area-label='loading'>
