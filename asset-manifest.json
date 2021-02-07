@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/github.io/dohlix/static/js/main.a25b59ad.chunk.js",
+    "main.js.map": "/github.io/dohlix/static/js/main.a25b59ad.chunk.js.map",
+    "runtime-main.js": "/github.io/dohlix/static/js/runtime-main.b25e1c9c.js",
+    "runtime-main.js.map": "/github.io/dohlix/static/js/runtime-main.b25e1c9c.js.map",
+    "static/js/2.206068c1.chunk.js": "/github.io/dohlix/static/js/2.206068c1.chunk.js",
+    "static/js/2.206068c1.chunk.js.map": "/github.io/dohlix/static/js/2.206068c1.chunk.js.map",
+    "index.html": "/github.io/dohlix/index.html",
+    "static/js/2.206068c1.chunk.js.LICENSE.txt": "/github.io/dohlix/static/js/2.206068c1.chunk.js.LICENSE.txt",
+    "static/media/noPoster.jpg": "/github.io/dohlix/static/media/noPoster.c7579717.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25e1c9c.js",
+    "static/js/2.206068c1.chunk.js",
+    "static/js/main.a25b59ad.chunk.js"
+  ]
+}
